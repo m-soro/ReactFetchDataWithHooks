@@ -1,6 +1,6 @@
 # React Fetch Data with Hooks
 
-```
+```jsx
 /**
  * -----------
  * FETCH DATA
@@ -66,5 +66,4 @@ function App() {
 }
 
 export default App;
-
 ```
